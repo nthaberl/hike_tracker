@@ -1,5 +1,5 @@
 
-🗻🗻My Personal Hike Tracker
+🗻�My Personal Hike Tracker
 
 A full-stack Python application to catalog which hikes I've done onto a map with a brief description, utilizing the open source Leaflet API and making it pretty with UIKit CSS Framework. Hike information is stored using MySQL and displays in real-time upon submission!
 
